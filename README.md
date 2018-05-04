@@ -81,3 +81,4 @@ graficar y comparar ambos metodos, dicha tabla es la siguiente:
 Finalmente obtenemos la siguiente grafica donde vemos como Euler cambia de manera mas
 notoria luego del 5 dato, la grafica es la siguiente:
 
+!RK4 v Euler(RK4 v Euler.png)
